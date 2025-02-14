@@ -1,15 +1,19 @@
 """
-Inserta el encabezado aquí y escribe tu código abajo
+Hola, mundo 
+Karen Durán Cárdenas
+757136
+Ingeniería Civil
+Algoritmos y Programación 
+ESI232B2
+14/02/25
+5 minutos
 """
 
-# Declaraciones
-CONSTANTE = valor
-
 # Entradas
-entrada = input()
+nombre = input("¿Cómo te llamas: ")
 
 # Proceso
-
+saludo =  "Hola, " + nombre 
 
 # Salidas
-print(salida)
+print(saludo)
